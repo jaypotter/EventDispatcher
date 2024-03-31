@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Potter\Dispatcher;
+namespace Potter\Event\Dispatcher;
 
 use \Psr\EventDispatcher\ListenerProviderInterface;
 

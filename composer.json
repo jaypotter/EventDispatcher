@@ -16,7 +16,7 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Potter\\Event\\Dispatcher\\": "src/Potter/Dispatcher/"
+            "Potter\\Event\\Dispatcher\\": "src/Potter/Event/Dispatcher/"
         }
     },
     "authors": [
