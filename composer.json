@@ -4,9 +4,9 @@
     "type": "library",
     "require": {
         "php": "^8.3",
-        "potter/event-dispatcher-interface": "dev-main",
-        "potter/event-dispatcher-trait": "dev-main",
-        "psr/event-dispatcher": "^1.0@dev"
+        "potter/event-dispatcher-interface": "v0.0.1-alpha@alpha",
+        "potter/event-dispatcher-trait": "v0.0.1-alpha@alpha",
+        "psr/event-dispatcher": "^1.0"
     },
     "suggest": {
         "potter/event": "dev-main",
@@ -25,5 +25,5 @@
             "email": "j@ypotter.ca"
         }
     ],
-    "minimum-stability": "dev"
+    "minimum-stability": "alpha"
 }
